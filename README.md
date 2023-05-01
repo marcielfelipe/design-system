@@ -12,3 +12,11 @@ Design system desenvolvido no curso Ignite da Rocketseat
 - [ ] Checkbox
 - [ ] Avatar
 - [ ] MultiStep
+
+## Tecnologias
+
+- React
+- Storybook
+- Stitches
+- Vite
+- tsup
